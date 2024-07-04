@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <PackageReference Include="System.Memory" Version="4.5.5" />
-    <PackageReference Include="xunit.extensibility.core" Version="[2.2.0,3.0.0)" />
+    <PackageReference Include="xunit.extensibility.core" Version="[2.6.6,3.0.0)" />
   </ItemGroup>
 
   <!-- Dependencies added due to transitive vulnerabilities in xUnit -->
